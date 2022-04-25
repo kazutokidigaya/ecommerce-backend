@@ -20,7 +20,8 @@
   "homepage": "https://github.com/kazutokidigaya/ecommerce-backend#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
