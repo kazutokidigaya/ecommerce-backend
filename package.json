@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": " a backend dservice for ecommerce application\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazutokidigaya/ecommerce-backend.git"
+  },
+  "author": "Karan .T",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazutokidigaya/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/kazutokidigaya/ecommerce-backend#readme"
+}
