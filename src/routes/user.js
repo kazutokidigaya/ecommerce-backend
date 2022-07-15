@@ -9,7 +9,7 @@ router.post(
   "/signup",
   body("firstName").isLength({ min: 1 }),
   body("lastName").isLength({ min: 1 }),
-  body("password").isLength({ min: 1 }),
+  body("password").isLength({ min: 3 }),
   body("email").isEmail(),
   async (req, res) => {
     try {
